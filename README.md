@@ -58,8 +58,4 @@ Replace ```process.env.REACT_APP_GOOGLE_API_KEY``` with your Google developer ke
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://parhamsaniei.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psaniei/)
 
-Thank you to Brad Traversy for the project idea
 
-![2021-09-22 18 03 11-min](https://user-images.githubusercontent.com/50463988/134429647-7e1187b6-4b11-4bfa-8e87-48f1815d74b0.gif
-![Screen Shot 2021-09-22 at 6 01 16 PM](https://user-images.githubusercontent.com/50463988/134429669-8d2b6cb6-b8e0-43e1-bb54-c6ce8945729d.png)
-)
